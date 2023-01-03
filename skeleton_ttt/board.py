@@ -3,7 +3,8 @@ import tkinter as tk
 from tkinter import font
 from game import Move
 
-## Nuovo commento
+## Nuovo commento 
+## Altro nuovo commento 
 
 class Board(tk.Tk):
     def __init__(self, game):
